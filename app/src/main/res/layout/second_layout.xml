@@ -19,7 +19,8 @@
         <EditText
             android:layout_width="185dp"
             android:layout_height="wrap_content"
-            android:id="@+id/users_name_edit_text"/>
+            android:id="@+id/users_name_edit_text"
+            android:inputType="textPersonName"/>
 
         </LinearLayout>
 
